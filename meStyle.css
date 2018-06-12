@@ -1,0 +1,72 @@
+body{
+    background-color:purple;
+    margin:0;
+    padding:0;
+    
+}
+
+h1{
+font-family:Modern Antiqua;    
+}
+
+.code{
+    font-family:courier new;
+}
+
+.sp{
+    width:360px;
+    padding-left:180px;
+}
+
+.rp{
+    width:360px;
+}
+
+.cp{
+    width:360px;
+    padding-left:180px;
+}
+
+.links{
+    text-decoration:none;
+}
+
+.dogs{
+    display:flex;
+    justify-content:center;
+}
+
+#dogs{
+    width:200px;
+    height:200px;
+    border-radius:400px;
+}
+
+.page{
+    text-align:center;
+}
+
+.content{
+    margin:0 auto;
+    width:720;
+    text-align:left;
+    padding:20px;
+}
+
+.nav{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    height:5%;
+}
+
+.nav-item{
+    padding:10px;
+    text-decoration:none;
+    color:black;
+    font-family:Modern Antiqua;
+}
+
+.center{
+    text-align:center;
+}
