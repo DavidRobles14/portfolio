@@ -1,0 +1,21 @@
+body{
+    background-color:purple;
+}
+
+div{
+    display:flex;
+    justify-content:center;
+}
+
+img{
+    border-radius:400px;
+    height:400px;
+}
+
+
+
+a{
+    text-decoration:none;
+    color:black;
+    padding-top:50px;
+}
