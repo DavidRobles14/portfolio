@@ -70,3 +70,8 @@ font-family:'Modern Antiqua', cursive;
 .center{
     text-align:center;
 }
+
+#menu{
+    display:flex;
+    justify-content:center;
+}
