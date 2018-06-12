@@ -13,7 +13,9 @@ img{
     width:300px;
 }
 
-
+h1{
+    font-family: 'Modern Antiqua', cursive;
+}
 
 a{
     text-decoration:none;

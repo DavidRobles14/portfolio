@@ -6,7 +6,7 @@ body{
 }
 
 h1{
-font-family:Modern Antiqua;    
+font-family:'Modern Antiqua', cursive;    
 }
 
 .code{
@@ -64,7 +64,7 @@ font-family:Modern Antiqua;
     padding:10px;
     text-decoration:none;
     color:black;
-    font-family:Modern Antiqua;
+    font-family:'Modern Antiqua', cursive;
 }
 
 .center{
