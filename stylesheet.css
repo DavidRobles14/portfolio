@@ -7,6 +7,16 @@ div{
     justify-content:center;
 }
 
+.sub{
+    display:flex;
+    justify-content:center;
+}
+
+#list{
+    display:flex;
+    justify-content:center;
+}
+
 img{
     border-radius:400px;
     height:300px;
@@ -21,4 +31,28 @@ a{
     text-decoration:none;
     color:black;
     padding-top:50px;
+}
+
+#cap{
+    display:flex;
+    justify-content:space-around;
+}
+
+
+
+button{
+    border-radius: 50px;
+}
+
+#img{
+    padding-top:50px;
+}
+
+.projects{
+    text-decoration:underline;
+}
+
+.ul{
+    display:flex;
+    justify-content:space-around;
 }
