@@ -1,5 +1,5 @@
 body{
-    background-color:purple;
+    background-color:lightblue;
 }
 
 div{
@@ -10,6 +10,11 @@ div{
 .sub{
     display:flex;
     justify-content:center;
+}
+
+#heading{
+    background-image:url("https://png.pngtree.com/thumb_back/fh260/back_pic/00/15/30/4656e81f6dc57c5.jpg");
+    background-size:cover;
 }
 
 #list{
@@ -24,7 +29,7 @@ img{
 }
 
 h1{
-    font-family: 'Modern Antiqua', cursive;
+    font-family: 'Indie Flower', cursive;
 }
 
 a{
@@ -55,4 +60,9 @@ button{
 .ul{
     display:flex;
     justify-content:space-around;
+}
+
+#aWriting{
+    padding-left:250px;
+    padding-right:250px;
 }
